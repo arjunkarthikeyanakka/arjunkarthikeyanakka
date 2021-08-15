@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arjunkarthikeyanakka
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning angular
-- 💞️ I’m looking to collaborate on front-end projects
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on full-stack web applications.
 - 📫 How to reach me : gmail : arjunkarthikeya2002@gmail.com
 
 <!---
